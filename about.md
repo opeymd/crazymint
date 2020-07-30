@@ -2,8 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+
 ---
 
+![2020-07-04-337824.png](https://opeymd.github.io/crazymint/assets/2020-07-04-337824.png)
 A simple and elegant theme for Jekyll and GitHub Pages.
 
 ### Features:
