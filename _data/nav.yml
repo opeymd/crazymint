@@ -4,5 +4,5 @@
   url: /about
 - title: Writing
   url: /writing
-- title: Writing
-  url: "https://github.com/"
+- title: <a target="_blank" href="https://github.com/opeymd/crazymint">Writing</a>
+  url: "https://github.com/opeymd/crazymint"
