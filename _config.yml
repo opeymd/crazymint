@@ -4,7 +4,7 @@ social_link: twitter
 social_username: opey
 github_repo: athena
 github_username: opeymd
-theme_color: yellow
+theme_color: dark
 remote_theme: internet-de-france/swiss
 baseurl: /crazymint
 defaults:
