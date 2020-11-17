@@ -4,7 +4,7 @@ permalink: /
 title: Easy Mint Space Cash
 
 ---
-<h3>A simple and elegant theme for Jekyll and GitHub Pages.</h3>
+<h3>whatthefuck</h3>
 <h3>A simple and elegant theme for Jekyll and GitHub Pages.</h3>
 
 
