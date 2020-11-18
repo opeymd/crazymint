@@ -5,6 +5,8 @@ permalink: /tech/
 category_name: tech
 ---
 
+
+<h1>HELLO!!</h1>
 <!--
 
 Set the front matter:
@@ -19,5 +21,3 @@ permalink: /my-awesome-category/
 filename: my-awesome-category.html
 
 -->
-
-HELLO!!
